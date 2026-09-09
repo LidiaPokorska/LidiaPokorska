@@ -46,7 +46,8 @@ Repo: [gender-pay-gap-analysis](https://github.com/LidiaPokorska/gender-pay-gap-
 
 ## 📫 Contact
 Happy to connect or collaborate!  
-**LinkedIn:** 
+**LinkedIn:** [https://www.linkedin.com/in/lidia-pokorska-2a3ab431a](https://www.linkedin.com/in/lidia-pokorska-2a3ab431a)
+
 
 ---
 
