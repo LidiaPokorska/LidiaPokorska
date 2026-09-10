@@ -15,7 +15,7 @@ Analysis of salary differences between women and men using Python, Pandas, and d
 Repo: [gender-pay-gap-analysis](https://github.com/LidiaPokorska/gender-pay-gap-analysis)
 
 ### **HR Attrition Classification** 
-Machine learning model predicting employee attrition using Python, scikit‑learn and SHAP explainability. 
+Machine learning model predicting employee attrition using Python, scikit‑learn and SHAP explainability.  
 Repo: [hr-attrition-classification](https://github.com/LidiaPokorska/hr-attrition-classification)
 
 ---
