@@ -23,6 +23,11 @@ I combine HR domain expertise with analytical tools, which allows me to build pr
 Analysis of salary differences between women and men using Python, Pandas, and data visualization.  
 Repo: [gender-pay-gap-analysis](https://github.com/LidiaPokorska/gender-pay-gap-analysis)
 
+### **HR Attrition Classification** 
+Machine learning model predicting employee attrition using Python, scikit‑learn and SHAP explainability
+Repo: [hr-attrition-classification](https://github.com/LidiaPokorska/hr-attrition-classification)
+
+
 *(More projects coming soon.)*
 
 ---
