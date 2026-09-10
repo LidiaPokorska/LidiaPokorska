@@ -1,4 +1,4 @@
-# Hi, I'm Lidia 👋  
+
 ### IT Consultant (HR: Payroll / Personnel / Benefits) | SAP HCM Specialist  
 ### Data Analysis & Machine Learning Enthusiast
 
